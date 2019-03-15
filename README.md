@@ -55,7 +55,7 @@ Ventajas:
 * Importación de proyectos Git existentes desde Excel, Github, entre otros.
 * Compatible con importaciones de Git, CodePlex, Google Code, SVN.
 
-#¿QUÉ ES MARKDOWN?
+# ¿QUÉ ES MARKDOWN?
 
 Markdown nació como herramienta de conversión de texto plano a HTML.
 Es un lenguaje de marcado que tiene como objetivo el hacer más fácil la tarea de dar formato a un texto mediante el uso de algunos caracteres
